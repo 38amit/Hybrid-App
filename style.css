@@ -1,0 +1,81 @@
+h1 {
+    font-size: 27px;
+    background: mediumpurple;
+    color: white;
+    box-shadow: 10px 5px 10px white;
+    border-radius: 6px;
+    font-family: 'Gemunu Libre', sans-serif;
+    width: 100%;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+    font-family: 'Gemunu Libre', sans-serif;
+    font-size: 15px;
+    background: grey;
+    border-radius: 5px;
+    box-shadow: 10px 5px 10px white;
+}
+
+.mobile_net {
+    font-size: 20px;
+    color: white;
+    background: mediumpurple;
+    border-radius: 5px;
+    font-family: 'Gemunu Libre', sans-serif;
+    box-shadow: 10px 5px 10px white;
+}
+
+.voice_selfie {
+    font-size: 20px;
+    color: white;
+    background: mediumpurple;
+    border-radius: 5px;
+    font-family: 'Gemunu Libre', sans-serif;
+    box-shadow: 10px 5px 10px white;
+}
+
+.mine_craft {
+    font-size: 20px;
+    color: white;
+    background: mediumpurple;
+    border-radius: 5px;
+    font-family: 'Gemunu Libre', sans-serif;
+    box-shadow: 10px 5px 10px white;
+}
+
+.case_study {
+    font-size: 20px;
+    color: white;
+    background: mediumpurple;
+    border-radius: 5px;
+    font-family: 'Gemunu Libre', sans-serif;
+    box-shadow: 10px 5px 10px white;
+}
+
+.draw_anything_with_radius {
+    font-size: 20px;
+    color: white;
+    background: mediumpurple;
+    border-radius: 5px;
+    font-family: 'Gemunu Libre', sans-serif;
+    box-shadow: 10px 5px 10px white;
+}
+
+.rover_on_mars {
+    font-size: 20px;
+    color: white;
+    background: mediumpurple;
+    border-radius: 5px;
+    font-family: 'Gemunu Libre', sans-serif;
+    box-shadow: 10px 5px 10px white;
+}
+
+    body {
+    background: skyblue;
+}
